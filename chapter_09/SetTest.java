@@ -1,5 +1,7 @@
 package chapter_09;
 
+import java.util.*;
+
 /*
  * Cay S. Horstmann
  * Core Java Volume 1. Fundamentals
@@ -8,8 +10,6 @@ package chapter_09;
  * This program displays all the unique words 
  * entered into the set from the standard stream
  */
-
-import java.util.*;
 
 public class SetTest {
 

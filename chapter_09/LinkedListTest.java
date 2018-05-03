@@ -1,5 +1,7 @@
 package chapter_09;
 
+import java.util.*;
+
 /*
  * Cay S. Horstmann
  * Core Java Volume 1. Fundamentals
@@ -7,11 +9,6 @@ package chapter_09;
  * Page 434
  * Operations with linked lists are demonstrated
  */
-
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.ListIterator;
 
 public class LinkedListTest {
 	
