@@ -16,6 +16,5 @@ public class Employee {
 	
 	public Employee(String s) {
 		 name = s;
-		 System.out.println(s);
 	}
 }
