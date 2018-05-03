@@ -1,6 +1,5 @@
 package chapter_09;
 
-
 /*
  * Cay S. Horstmann
  * Core Java Volume 1. Fundamentals
@@ -15,6 +14,7 @@ import java.util.List;
 import java.util.ListIterator;
 
 public class LinkedListTest {
+	
 	public static void main(String[] args) {
 
 		List<String> a = new LinkedList<>();
